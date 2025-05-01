@@ -2,14 +2,14 @@
 
 ### Meu nome é Gerson Fernandes Ribeiro
 
-Sou um apaixonado por programação e atualmente estudo Ciência da Computação no [Centro Universitário Governador Ozanam Coelho (UNIFAGOC)](https://unifagoc.edu.br/?gad_source=1&gclid=EAIaIQobChMI786MxOSTiAMVuV5IAB1siD3cEAAYASAAEgJdXvD_BwE), em [Ubá, MG](https://www.google.com/maps/place/UNIFAGOC+-+Centro+Universit%C3%A1rio+Governador+Ozanam+Coelho/@-21.1101108,-42.9599958,17z/data=!3m1!4b1!4m6!3m5!1s0xa31b93349a8239:0x398e6341fcf9a284!8m2!3d-21.1101108!4d-42.9574209!16s%2Fg%2F11f2b0w2w0?authuser=0&entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D). Estou em constante busca por conhecimento, visando alcançar a excelência na área de Software Engineering, um sonho que persigo com determinação.
+Sou um apaixonado por programação e atualmente 📘 estudo Ciência da Computação no [Centro Universitário Governador Ozanam Coelho (UNIFAGOC)](https://unifagoc.edu.br/?gad_source=1&gclid=EAIaIQobChMI786MxOSTiAMVuV5IAB1siD3cEAAYASAAEgJdXvD_BwE), em [Ubá, MG](https://www.google.com/maps/place/UNIFAGOC+-+Centro+Universit%C3%A1rio+Governador+Ozanam+Coelho/@-21.1101108,-42.9599958,17z/data=!3m1!4b1!4m6!3m5!1s0xa31b93349a8239:0x398e6341fcf9a284!8m2!3d-21.1101108!4d-42.9574209!16s%2Fg%2F11f2b0w2w0?authuser=0&entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D). Estou em constante busca por conhecimento, visando alcançar a excelência na área de Software Engineering, um sonho que persigo com determinação.
 
 
 ## 
 
 
-### 👨‍💻 Trabalho:
-- 🔭 Atualmente trabalho na **[Tek System informática](https://homepage.teksystem.com.br/)** como desenvolvedor Jr.
+### 🧑‍💼 Trabalho:
+- 😎 Atualmente trabalho na **[Tek System informática](https://homepage.teksystem.com.br/)** como desenvolvedor Jr.
   
 ### 🌱 Estou aprendendo:
 - Node para módulos necessários para o desenvolvimento de alguns projetos.
